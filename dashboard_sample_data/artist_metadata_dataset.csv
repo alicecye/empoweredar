@@ -1,0 +1,6 @@
+name,artist_uri,artist_image,artist_url,artist_popularity,avg_related_artist_pop,followers,genres,num_genres
+Kelela,spotify:artist:1U0sIzpRtDkvu1hXXzxh60,https://i.scdn.co/image/ab6761610000e5eb009653688cad451cd7d080e6,https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60,46,48.9,272082,"['afrofuturism', 'alternative r&b', 'art pop', 'electropop', 'escape room', 'experimental r&b', 'indie soul', 'pop', 'r&b']",9
+Branchez,spotify:artist:4T5kpUiQUVJhuf9YT28qlf,https://i.scdn.co/image/ab6761610000e5ebd4990021e89e450bc87a6ddd,https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf,46,55.1,15524,['electronic trap'],1
+Skrillex,spotify:artist:5he5w2lnU9x7JFhnwcekXX,https://i.scdn.co/image/ab6761610000e5eb3b4b7eaaf58759b58626de37,https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX,74,52.35,8014959,"['brostep', 'complextro', 'edm', 'electro']",4
+Macklemore,spotify:artist:3JhNCzhSMTxs9WLGJJxWOY,https://i.scdn.co/image/ab6761610000e5eb57df9bb5680b96f5b4811fc2,https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY,75,53.3,1873857,"['pop rap', 'seattle hip hop']",2
+Charli XCX,spotify:artist:25uiPmTg16RbhZWAqwLBy5,https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71,https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5,76,55.65,2639181,"['art pop', 'candy pop', 'dance pop', 'electropop', 'metropopolis', 'pop', 'uk pop']",7
